@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem;
+    box-shadow: 0.5rem 1rem rgba(202, 147, 147, 0, 0.7);
+    background-color: rgb(255, 193, 191);
+    
+}
+a {
+    padding: 1rem;
+    border: 2px solid black;
+}
+
+body{
+    background-image: url(./beige-paintbrush-stroke-textured-background.jpeg);
+    background-size: cover;
+    Background-repeat: no-repeat;
+    width: 100%;
+}
+
+.Welcome{
+    font-size: 65px;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10rem;
+}
+
+.Bagian1 p{
+    font-size: 50px;
+    align-items: center;
+    text-align: center;
+}
+
+

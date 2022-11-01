@@ -1,0 +1,26 @@
+body{
+    background-image: url(./beige-paintbrush-stroke-textured-background.jpeg);
+    background-size: cover;
+    Background-repeat: no-repeat;
+    width: 100%;
+}
+
+.hai{
+    font-size: 40px;
+    align-items: center;
+    text-align: center;
+    margin-top: 3rem;
+    padding: 3rem;
+}
+
+#Tentang{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}  
+
+img{
+    width: 500px;
+}
+    

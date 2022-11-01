@@ -1,0 +1,19 @@
+body{
+    background-image: url(./beige-paintbrush-stroke-textured-background.jpeg);
+    background-size: cover;
+    Background-repeat: no-repeat;
+    width: 100%;
+}
+
+.Portofolio{
+        font-size: 30px;
+        align-items: center;
+        text-align: center;
+        margin-top: 5rem;
+} 
+
+
+.image{
+        width: 400px;
+        height: 400px;      
+}
